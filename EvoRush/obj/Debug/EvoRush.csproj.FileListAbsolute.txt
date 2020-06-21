@@ -1,0 +1,13 @@
+C:\Users\Amadeus\source\repos\EvoRush\EvoRush\bin\Debug\EvoRush.exe.config
+C:\Users\Amadeus\source\repos\EvoRush\EvoRush\bin\Debug\EvoRush.exe
+C:\Users\Amadeus\source\repos\EvoRush\EvoRush\bin\Debug\EvoRush.pdb
+C:\Users\Amadeus\source\repos\EvoRush\EvoRush\obj\Debug\EvoRush.csprojAssemblyReference.cache
+C:\Users\Amadeus\source\repos\EvoRush\EvoRush\obj\Debug\EvoRush.Form1.resources
+C:\Users\Amadeus\source\repos\EvoRush\EvoRush\obj\Debug\EvoRush.Properties.Resources.resources
+C:\Users\Amadeus\source\repos\EvoRush\EvoRush\obj\Debug\EvoRush.csproj.GenerateResource.cache
+C:\Users\Amadeus\source\repos\EvoRush\EvoRush\obj\Debug\EvoRush.exe
+C:\Users\Amadeus\source\repos\EvoRush\EvoRush\obj\Debug\EvoRush.pdb
+C:\Users\Amadeus\source\repos\EvoRush\EvoRush\obj\Debug\EvoRush.About.resources
+C:\Users\Amadeus\source\repos\EvoRush\EvoRush\obj\Debug\EvoRush.Game4x4.resources
+C:\Users\Amadeus\source\repos\EvoRush\EvoRush\obj\Debug\EvoRush.Game5x5.resources
+C:\Users\Amadeus\source\repos\EvoRush\EvoRush\obj\Debug\EvoRush.Game6x6.resources
